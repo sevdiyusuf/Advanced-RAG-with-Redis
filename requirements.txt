@@ -1,0 +1,2 @@
+pip install --no-cache-dir pypdf faiss-cpu tiktoken "packaging==23.2"
+pip install --no-cache-dir ` langchain==0.1.16 ` langchain-community==0.0.32 ` langchain-core==0.1.45 ` langchain-text-splitters==0.0.2

@@ -1,0 +1,37 @@
+[
+    {
+        "id": "q1",
+        "question": "Bu PDF'nin ana konusu nedir? 5 maddeyle özetle.",
+        "expected": "present"
+    },
+    {
+        "id": "q2",
+        "question": "Dokümanda geçen en önemli 3 kavramı listele ve kısaca açıkla.",
+        "expected": "present"
+    },
+    {
+        "id": "q3",
+        "question": "Bu dokümanda 'X' kavramı nasıl tanımlanıyor?",
+        "expected": "present"
+    },
+    {
+        "id": "q4",
+        "question": "Dokümanda adı geçen bir örnek/uygulama var mı? Varsa anlat.",
+        "expected": "present"
+    },
+    {
+        "id": "q5",
+        "question": "Dokümanda sonuç/çıkarım kısmında ne deniyor?",
+        "expected": "present"
+    },
+    {
+        "id": "q6",
+        "question": "Bu dokümanda 'quantum teleportation' geçiyor mu?",
+        "expected": "absent"
+    },
+    {
+        "id": "q7",
+        "question": "Dokümanda 'blockchain consensus' anlatılıyor mu?",
+        "expected": "absent"
+    }
+]

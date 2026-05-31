@@ -1,0 +1,22 @@
+config,chunk_size,chunk_overlap,top_k,question_id,expected,latency_sec,index_build_sec,no_answer_pred,no_answer_ok,pages,answer_preview
+A_500_80,500,80,4,q1,present,19.734,209.562,False,True,"0,10","1. Araştırmanın amacı Adana ilindeki insanların ilaç kullanım davranışlarını incelemektir. 2. Planlanan örnek büyüklüğü 1222 idi, Akılcı İlaç Kullanım Anketi hazırlanmıştır. 3. Çal..."
+A_500_80,500,80,4,q2,present,14.428,209.562,False,True,"0,10",1. **Akılcı İlaç Kullanım Anketi**: İnsanların ilaç kullanım davranışlarını incelemek için hazırlanan anket. 2. **Akılcı İlaç Kullanım Skoru**: İnsanların akılcı ilaç kullanım bilg...
+A_500_80,500,80,4,q3,present,10.323,209.562,True,False,"0,10",Bu bilgi dokümanda yok.
+A_500_80,500,80,4,q4,present,11.67,209.562,False,True,"0,10","Evet, dokümanda adı geçen bir örnek/uygulama vardır. Bu örnek, 1.111 kişiye telefonla uygulanmıştır."
+A_500_80,500,80,4,q5,present,10.861,209.562,True,False,"0,10",Bu bilgi dokümanda yok.
+A_500_80,500,80,4,q6,absent,12.887,209.562,True,True,"0,9,10,12",Bu bilgi dokümanda yok.
+A_500_80,500,80,4,q7,absent,10.811,209.562,True,True,"0,10",Bu bilgi dokümanda yok.
+B_700_120,700,120,4,q1,present,14.513,153.398,False,True,"0,10","1. Araştırmanın amacı Adana ilindeki insanların ilaç kullanım davranışlarını incelemektir. 2. Planlanan örnek büyüklüğü 1222 idi, ancak anket görüşme kabul eden 1111 kişiye uygulan..."
+B_700_120,700,120,4,q2,present,15.144,153.398,False,True,"0,10",1. **Akılcı İlaç Kullanım Skoru**: İnsanların ilaç kullanım alışkanlıklarını ölçmek için kullanılan bir skor. 2. **Doktora Danışmadan İlaç Kullanımı**: İnsanların doktor danışmanlı...
+B_700_120,700,120,4,q3,present,10.846,153.398,True,False,"0,10",Bu bilgi dokümanda yok.
+B_700_120,700,120,4,q4,present,10.692,153.398,True,False,"0,10",Bu bilgi dokümanda yok.
+B_700_120,700,120,4,q5,present,10.636,153.398,True,False,"0,10",Bu bilgi dokümanda yok.
+B_700_120,700,120,4,q6,absent,10.501,153.398,True,True,"0,1,2,12",Bu bilgi dokümanda yok.
+B_700_120,700,120,4,q7,absent,10.326,153.398,True,True,"0,10",Bu bilgi dokümanda yok.
+C_1000_150,1000,150,4,q1,present,19.606,108.921,False,True,"0,9,10","Ana konu, Adana ilindeki insanların ilaç kullanım alışkanlıklarını inceleyen bir araştırma. Bu araştırma, katılımcıların %57,2'sinin doktora danışmadan ilaç kullandıklarını ve %98,..."
+C_1000_150,1000,150,4,q2,present,14.503,108.921,False,True,"0,10,12",1. **Akılcı İlaç Kullanım Anketi**: İnsanların ilaç kullanım davranışlarını incelemek için hazırlanan anket. 2. **Rasyonel İlaç Kullanımı**: İnsanların ilaçları doğru ve güvenli bi...
+C_1000_150,1000,150,4,q3,present,10.695,108.921,True,False,"0,9,10",Bu bilgi dokümanda yok.
+C_1000_150,1000,150,4,q4,present,12.311,108.921,False,True,"0,9,10","Evet, dokümanda ""Akılcı İlaç Kullanım Anketi"" isimli bir örnek/anlamca uygulama vardır. Bu anket 1.111 kişiye telefonla uygulanmıştır."
+C_1000_150,1000,150,4,q5,present,14.251,108.921,False,True,"0,9,10","Çalışmamıza katılan kişilerin Akılcı İlaç Kullanım Skoruna göre puanlarını hesapladık. 100 üzerinden tüm bireylerin aldıkları ortalama puan 68,3±13,5 bulunmuştur. Bu da Adana ilind..."
+C_1000_150,1000,150,4,q6,absent,10.646,108.921,True,True,"0,9,10,12",Bu bilgi dokümanda yok.
+C_1000_150,1000,150,4,q7,absent,10.781,108.921,True,True,"0,10,12",Bu bilgi dokümanda yok.
